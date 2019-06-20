@@ -25,4 +25,4 @@ Personally I am a broadway fan and my favorite musical is Come From Away -- a mu
 </div>
 <br>
 <div class="thin-text">
-Here is my <a href="https://www.dropbox.com/s/5e3s74bvdsl1n1z/Yc_ds.pdf?dl=0"><strong>Resume</strong></a></div> <!--[Resume](https://www.dropbox.com/s/5e3s74bvdsl1n1z/Yc_ds.pdf?dl=0)-->
+Here is my <a href="https://www.dropbox.com/h?preview=resume-Alex+Xu.pdf"><strong>Resume</strong></a></div> <!--[Resume](https://www.dropbox.com/h?preview=resume-Alex+Xu.pdf)-->
