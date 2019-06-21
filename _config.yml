@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Wei Xu 
+title: Wei Fischer Xu 
 email: AlexActuary94@gmail.com
 description: >- "My dad is awesome. Do you know who my daddy is??
  Google - Robet P.Fischer , the one who vanished at home"
