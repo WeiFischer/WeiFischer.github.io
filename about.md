@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <div class="thin-text">
-Actively looking for 2019 full time data analyst opportunity in the tri-state area/Bay area, would like to work at companies with size 1000+.
+Actively looking for 2019 full time data analyst opportunity, would like to work at companies with size 1000+. Willing to relocate.
 <br>
 Proficient in SAS,R (especially creating visualization with ggplot2 and plotly).
 Please contact me ASAP if you would like to know more about me.
